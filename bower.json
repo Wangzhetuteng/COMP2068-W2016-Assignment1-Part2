@@ -1,0 +1,24 @@
+{
+  "name": "comp2068-w2016-assignment1-part2",
+  "description": "COMP2068-W2016-Assignment1_Part2 deployed to Azure",
+  "main": "",
+  "authors": [
+    "Wangzhetuteng <ericdicaprio@outlook.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Wangzhetuteng/COMP2068-W2016-Assignment1-Part2",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
